@@ -1,0 +1,19 @@
+title:             Krypton is an ICO / Crypto starter
+email:             your-email@example.com
+description: ""
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+
+exclude:
+  - LICENSE
+  - README.md
+  - krypton.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: ""
